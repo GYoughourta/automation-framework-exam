@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>qaw-fr-001-automation-framework</artifactId>
+  <artifactId>Youghourta-automation-framework</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>qaw-fr-001-automation-framework</name>
+  <name>Youghourta-automation-framework</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -92,7 +92,7 @@
                 <version>2.22.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>/home/youghou/Bureau/formation/Exam/qaw-fr-001-automation-framework-master/src/test/resources/runner.xml</suiteXmlFile>
+                        <suiteXmlFile>/src/test/resources/runner.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
