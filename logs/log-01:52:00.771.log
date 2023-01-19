@@ -1,0 +1,124 @@
+01:49:43.325 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:49:46.776 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:49:56.978 [main] INFO  org.qaway.pages.ProductPage - hover over computers success
+01:49:58.702 [main] INFO  org.qaway.pages.ProductPage - click on desktops success
+01:49:58.787 [main] INFO  org.qaway.TestCarte - click Add To Carte Product Pc success
+01:50:00.371 [main] INFO  org.qaway.TestCarte - click Product Books success
+01:50:00.419 [main] INFO  org.qaway.TestCarte - get element Book Is Displayed
+01:50:00.480 [main] INFO  org.qaway.TestCarte - click Add To Carte Product book success
+01:50:12.701 [main] INFO  org.qaway.TestCarte - Total prices products is : 1527.0
+01:50:12.749 [main] INFO  org.qaway.TestCarte - Total prices products is : [1500.0, 27.0]
+01:50:12.830 [main] INFO  org.qaway.TestCarte - Total prices products is success
+01:50:12.855 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:13.057 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:16.034 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:16.047 [main] INFO  org.qaway.TestComputer - current url: https://demo.nopcommerce.com/
+01:50:16.053 [main] INFO  org.qaway.TestComputer - url validation success
+01:50:16.242 [main] INFO  org.qaway.pages.ProductPage - hover over computers success
+01:50:17.296 [main] INFO  org.qaway.pages.ProductPage - click on desktops success
+01:50:17.333 [main] INFO  org.qaway.TestComputer - Notebooks header display success
+01:50:17.354 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:17.528 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:20.798 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:20.986 [main] INFO  org.qaway.pages.ProductPage - hover over computers success
+01:50:23.265 [main] INFO  org.qaway.pages.ProductPage - click on desktops success
+01:50:23.307 [main] INFO  org.qaway.TestComputer - Notebooks header display success
+01:50:23.445 [main] INFO  org.qaway.pages.ProductPage - price low to high select success
+01:50:26.534 [main] INFO  org.qaway.TestComputer - list of prices: [1350.00, 1360.00, 1460.00, 1500.00, 1590.00, 1800.00]
+01:50:26.590 [main] INFO  org.qaway.TestComputer - items sorted success
+01:50:26.614 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:26.810 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:29.881 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:30.092 [main] INFO  org.qaway.TestInitialPage - page title validation success
+01:50:30.126 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:30.305 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:33.496 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:33.743 [main] INFO  org.qaway.TestInitialPage - page title validation success
+01:50:33.795 [main] INFO  org.qaway.TestInitialPage - logo header is displayed
+01:50:33.828 [main] INFO  org.qaway.TestInitialPage - search is displayed
+01:50:33.853 [main] INFO  org.qaway.TestInitialPage - advertising is displayed
+01:50:34.050 [main] INFO  org.qaway.TestInitialPage - Welcome to our store validation success
+01:50:34.077 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:34.204 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:37.046 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:38.015 [main] INFO  org.qaway.TestInitialPageLoginClient - click On Login In success
+01:50:38.245 [main] INFO  org.qaway.TestInitialPageLoginClient - welcome Please Sign In is displayed
+01:50:38.275 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:38.478 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:41.707 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:42.376 [main] INFO  org.qaway.TestInitialPageLoginClient - welcome Please Sign In is displayed
+01:50:42.376 [main] INFO  org.qaway.pages.LoginPageClient - checking username field is displayed ...
+01:50:42.404 [main] INFO  org.qaway.TestInitialPageLoginClient - username field is displayed
+01:50:42.404 [main] INFO  org.qaway.pages.LoginPageClient - checking password field is displayed ...
+01:50:42.432 [main] INFO  org.qaway.TestInitialPageLoginClient - password field is displayed
+01:50:42.432 [main] INFO  org.qaway.pages.LoginPageClient - checking login button is displayed ...
+01:50:42.456 [main] INFO  org.qaway.TestInitialPageLoginClient - login button is displayed
+01:50:42.456 [main] INFO  org.qaway.pages.LoginPageClient - checking register button is displayed ...
+01:50:42.480 [main] INFO  org.qaway.TestInitialPageLoginClient - register button is displayed
+01:50:42.513 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:42.665 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:50:45.127 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:50:45.225 [main] INFO  org.qaway.TestLoginAdmin - click on NopCommerce success
+01:50:45.242 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son success
+01:50:48.241 [main] INFO  org.qaway.TestLoginAdmin - click on DEMO success
+01:50:48.326 [main] INFO  org.qaway.TestLoginAdmin - click on button admin success
+01:50:51.335 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son 2 success
+01:50:54.505 [main] INFO  org.qaway.TestLoginAdmin - get Title Admin Login  success
+01:50:54.596 [main] INFO  org.qaway.TestLoginAdmin - enter username success
+01:50:54.663 [main] INFO  org.qaway.TestLoginAdmin - enter password success
+01:50:54.724 [main] INFO  org.qaway.TestLoginAdmin - login button click success
+01:50:54.775 [main] INFO  org.qaway.TestLoginAdmin - error message: Wrong email
+01:50:57.899 [main] INFO  org.qaway.TestLoginAdmin - error message validation success
+01:50:57.930 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:50:58.410 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:51:01.498 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:51:01.620 [main] INFO  org.qaway.TestLoginAdmin - click on NopCommerce success
+01:51:01.646 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son success
+01:51:04.935 [main] INFO  org.qaway.TestLoginAdmin - click on DEMO success
+01:51:05.031 [main] INFO  org.qaway.TestLoginAdmin - click on button admin success
+01:51:08.038 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son 2 success
+01:51:11.197 [main] INFO  org.qaway.TestLoginAdmin - get Title Admin Login  success
+01:51:11.288 [main] INFO  org.qaway.TestLoginAdmin - enter username success
+01:51:11.363 [main] INFO  org.qaway.TestLoginAdmin - enter password success
+01:51:11.807 [main] INFO  org.qaway.TestLoginAdmin - login button click success
+01:51:14.925 [main] INFO  org.qaway.TestLoginAdmin - error mail: The credentials provided are incorrect
+01:51:15.061 [main] INFO  org.qaway.TestLoginAdmin - error mail validation success
+01:51:15.086 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:51:15.266 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:51:18.409 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:51:18.531 [main] INFO  org.qaway.TestLoginAdmin - click on NopCommerce success
+01:51:18.563 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son success
+01:51:22.062 [main] INFO  org.qaway.TestLoginAdmin - click on DEMO success
+01:51:22.144 [main] INFO  org.qaway.TestLoginAdmin - click on button admin success
+01:51:25.156 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son 2 success
+01:51:28.301 [main] INFO  org.qaway.TestLoginAdmin - get Title Admin Login  success
+01:51:28.417 [main] INFO  org.qaway.TestLoginAdmin - enter username success
+01:51:28.497 [main] INFO  org.qaway.TestLoginAdmin - enter password success
+01:51:28.556 [main] INFO  org.qaway.TestLoginAdmin - login button click success
+01:51:28.587 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:51:28.772 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:51:31.435 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:51:31.487 [main] INFO  org.qaway.TestLoginAdmin - Platform Is Displayed
+01:51:31.603 [main] INFO  org.qaway.TestLoginAdmin - click on NopCommerce success
+01:51:31.636 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son success
+01:51:34.069 [main] INFO  org.qaway.TestLoginAdmin - button Demo Is Displayed
+01:51:34.695 [main] INFO  org.qaway.TestLoginAdmin - click on DEMO success
+01:51:34.730 [main] INFO  org.qaway.TestLoginAdmin - button Admin Is Displayed
+01:51:37.793 [main] INFO  org.qaway.TestLoginAdmin - click on button admin success
+01:51:40.800 [main] INFO  org.qaway.TestLoginAdmin - switch To Window Son 2 success
+01:51:43.976 [main] INFO  org.qaway.TestLoginAdmin - get Title Admin Login  success
+01:51:43.976 [main] INFO  org.qaway.pages.AdminLoginPage - checking mail field is displayed ...
+01:51:44.003 [main] INFO  org.qaway.TestLoginAdmin - mail field is displayed
+01:51:44.004 [main] INFO  org.qaway.pages.AdminLoginPage - checking password field is displayed ...
+01:51:44.029 [main] INFO  org.qaway.TestLoginAdmin - password field is displayed
+01:51:44.030 [main] INFO  org.qaway.pages.AdminLoginPage - checking login button is displayed ...
+01:51:44.052 [main] INFO  org.qaway.TestLoginAdmin - login button is displayed
+01:51:44.074 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:51:44.252 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:51:47.258 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:51:47.268 [main] INFO  org.qaway.TestRadioButton - current url: https://demo.nopcommerce.com/
+01:51:47.272 [main] INFO  org.qaway.TestRadioButton - url validation success
+01:51:57.419 [main] INFO  org.qaway.TestRadioButton - click on radio button success
+01:51:57.506 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:51:57.648 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:52:00.729 [main] INFO  org.qaway.base.CommonAPI - browser open success

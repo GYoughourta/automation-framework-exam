@@ -1,0 +1,116 @@
+01:47:21.424 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:47:21.595 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son success
+01:47:25.172 [main] INFO  org.qaway.pages.HomePagePlateforme - click on DEMO success
+01:47:25.267 [main] INFO  org.qaway.pages.HomePagePlateforme - click on button admin success
+01:47:28.284 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son 2 success
+01:47:32.009 [main] INFO  org.qaway.TestAdministration - page title login validation success
+01:47:36.398 [main] INFO  org.qaway.TestAdministration - Click Registered Customer success
+01:47:37.604 [main] INFO  org.qaway.TestAdministration - Click add new Registered Customer success
+01:47:37.720 [main] INFO  org.qaway.TestAdministration - type mail success
+01:47:37.816 [main] INFO  org.qaway.TestAdministration - type password success
+01:47:37.909 [main] INFO  org.qaway.TestAdministration - type name success
+01:47:38.035 [main] INFO  org.qaway.TestAdministration - click radio male success
+01:47:41.150 [main] INFO  org.qaway.TestAdministration - click roles success
+01:47:44.284 [main] INFO  org.qaway.TestAdministration - choix administrators success
+01:47:44.500 [main] INFO  org.qaway.pages.AdminAreaDemoPage - Vendor 1 select success
+01:47:45.930 [main] INFO  org.qaway.TestAdministration - click success
+01:47:46.170 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:47:46.676 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:47:49.814 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:47:49.958 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son success
+01:47:52.963 [main] INFO  org.qaway.pages.HomePagePlateforme - click on DEMO success
+01:47:53.070 [main] INFO  org.qaway.pages.HomePagePlateforme - click on button admin success
+01:47:56.078 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son 2 success
+01:47:58.149 [main] INFO  org.qaway.TestAdministration - page title login validation success
+01:47:58.195 [main] INFO  org.qaway.TestAdministration - button catalog is displayed
+01:47:58.264 [main] INFO  org.qaway.TestAdministration - click catalog success
+01:47:58.598 [main] INFO  org.qaway.TestAdministration - products is displayed
+01:47:59.715 [main] INFO  org.qaway.TestAdministration - click on product success
+01:47:59.872 [main] INFO  org.qaway.pages.AdminAreaDemoPage - check 100 product select success
+01:48:03.361 [main] INFO  org.qaway.TestAdministration - click gift carte success
+01:48:03.438 [main] INFO  org.qaway.TestAdministration - button delete is displayed
+01:48:03.535 [main] INFO  org.qaway.TestAdministration - click on delete success
+01:48:03.578 [main] INFO  org.qaway.TestAdministration - alert: 
+01:48:03.758 [main] INFO  org.qaway.TestAdministration - accept alert success
+01:48:03.815 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:48:04.122 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:48:07.609 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:48:07.652 [main] INFO  org.qaway.TestAdministration - Platform Is Displayed
+01:48:07.743 [main] INFO  org.qaway.TestAdministration - click on NopCommerce success
+01:48:10.752 [main] INFO  org.qaway.TestAdministration - switch To Window Son success
+01:48:15.147 [main] INFO  org.qaway.TestAdministration - Six section Is Displayed
+01:48:15.440 [main] INFO  org.qaway.TestAdministration - Platform validation success
+01:48:16.108 [main] INFO  org.qaway.TestAdministration - click on DEMO success
+01:48:16.209 [main] INFO  org.qaway.TestAdministration - click on button admin success
+01:48:19.216 [main] INFO  org.qaway.TestAdministration - switch To Window Son 2 success
+01:48:19.474 [main] INFO  org.qaway.TestAdministration - get Title Admin Login  success
+01:48:19.507 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:48:19.868 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:48:22.988 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:48:23.125 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son success
+01:48:26.412 [main] INFO  org.qaway.pages.HomePagePlateforme - click on DEMO success
+01:48:26.511 [main] INFO  org.qaway.pages.HomePagePlateforme - click on button admin success
+01:48:29.522 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son 2 success
+01:48:31.955 [main] INFO  org.qaway.TestAdministration - system is displayed
+01:48:32.029 [main] INFO  org.qaway.TestAdministration - click button system  success
+01:48:34.145 [main] INFO  org.qaway.TestAdministration - click button system info success
+01:48:34.210 [main] INFO  org.qaway.TestAdministration - Title : System information
+01:48:34.714 [main] INFO  org.qaway.TestAdministration - table system info is : {nopCommerce version=4.60.0, HTTP_HOST=admin-demo.nopcommerce.com, ASP.NET info=.NET 7.0.0, Coordinated Universal Time (UTC)=Thursday, January 19, 2023 12:48:32 AM, Current user time=Wednesday, January 18, 2023 4:48:32 PM, Server time zone=Pacific Standard Time, Operating system=Microsoft Windows NT 10.0.17763.0, Is full trust level=Yes, Server local time=Wednesday, January 18, 2023 4:48:32 PM}
+01:48:34.739 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:48:34.941 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:48:37.650 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:48:37.804 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son success
+01:48:40.810 [main] INFO  org.qaway.pages.HomePagePlateforme - click on DEMO success
+01:48:40.895 [main] INFO  org.qaway.pages.HomePagePlateforme - click on button admin success
+01:48:43.905 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son 2 success
+01:48:48.674 [main] INFO  org.qaway.TestAdministration - page title login validation success
+01:48:48.749 [main] INFO  org.qaway.TestAdministration - reports is displayed
+01:48:48.813 [main] INFO  org.qaway.TestAdministration - click reports success
+01:48:52.602 [main] INFO  org.qaway.TestAdministration - click bestsellers success
+01:48:52.668 [main] INFO  org.qaway.TestAdministration - Total amount is : 4469.3
+01:48:52.850 [main] INFO  org.qaway.TestAdministration - all amount is : [2100.0, 1300.0, 530.0, 360.0, 51.0, 43.5, 27.0, 25.0, 24.0, 3.0, 3.0, 2.8]
+01:48:52.995 [main] INFO  org.qaway.TestAdministration - Total amounts tax bestsellers is success
+01:48:53.019 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:48:53.221 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:48:56.393 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:48:56.538 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son success
+01:48:59.600 [main] INFO  org.qaway.pages.HomePagePlateforme - click on DEMO success
+01:48:59.764 [main] INFO  org.qaway.pages.HomePagePlateforme - click on button admin success
+01:49:02.771 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son 2 success
+01:49:05.267 [main] INFO  org.qaway.TestAdministration - page title login validation success
+01:49:05.340 [main] INFO  org.qaway.TestAdministration - click sales success
+01:49:06.936 [main] INFO  org.qaway.TestAdministration - click orders success
+01:49:07.351 [main] INFO  org.qaway.TestAdministration - check Box success
+01:49:07.388 [main] INFO  org.qaway.TestAdministration - check Box 1 is selected success
+01:49:07.428 [main] INFO  org.qaway.TestAdministration - check Box 2 is selected success
+01:49:07.496 [main] INFO  org.qaway.TestAdministration - check Box 3 is selected success
+01:49:07.522 [main] INFO  org.qaway.TestAdministration - button download PDF is displayed
+01:49:07.576 [main] INFO  org.qaway.TestAdministration - click button download PDF success
+01:49:07.608 [main] INFO  org.qaway.TestAdministration - download PDF selected is displayed
+01:49:08.609 [main] INFO  org.qaway.TestAdministration - click button download PDF selected success
+01:49:08.656 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:49:08.890 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:49:11.993 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:49:12.144 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son success
+01:49:14.945 [main] INFO  org.qaway.pages.HomePagePlateforme - click on DEMO success
+01:49:15.030 [main] INFO  org.qaway.pages.HomePagePlateforme - click on button admin success
+01:49:18.044 [main] INFO  org.qaway.pages.HomePagePlateforme - switch To Window Son 2 success
+01:49:20.935 [main] INFO  org.qaway.TestAdministration - page title login validation success
+01:49:22.301 [main] INFO  org.qaway.TestAdministration - Click Registered Customer success
+01:49:22.334 [main] INFO  org.qaway.TestAdministration - check mail validate success
+01:49:32.415 [main] INFO  org.qaway.TestAdministration - check name validate success
+01:49:32.441 [main] INFO  org.qaway.TestAdministration - check roles validate success
+01:49:32.463 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:49:32.715 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:49:35.425 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:49:35.495 [main] INFO  org.qaway.TestCarte - current url: https://demo.nopcommerce.com/
+01:49:35.499 [main] INFO  org.qaway.TestCarte - url validation success
+01:49:38.712 [main] INFO  org.qaway.pages.ProductPage - hover over computers success
+01:49:41.442 [main] INFO  org.qaway.pages.ProductPage - click on desktops success
+01:49:41.471 [main] INFO  org.qaway.TestCarte - Notebooks header display success
+01:49:41.497 [main] INFO  org.qaway.TestCarte - click Add To Carte Product display success
+01:49:41.544 [main] INFO  org.qaway.TestCarte - click Add To Carte Product Pc success
+01:49:43.098 [main] INFO  org.qaway.TestCarte - click Product Books success
+01:49:43.137 [main] INFO  org.qaway.TestCarte - get element Book Is Displayed
+01:49:43.191 [main] INFO  org.qaway.TestCarte - click Add To Carte Product book success
+01:49:43.223 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true

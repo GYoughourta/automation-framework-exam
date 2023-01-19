@@ -1,0 +1,17 @@
+01:52:00.771 [main] INFO  org.qaway.TestSearchProductApple - search is displayed
+01:52:00.860 [main] INFO  org.qaway.TestSearchProductApple - type Apple In Search success
+01:52:00.909 [main] INFO  org.qaway.TestSearchProductApple - search is displayed
+01:52:02.478 [main] INFO  org.qaway.TestSearchProductApple - click on Search success
+01:52:04.031 [main] INFO  org.qaway.TestSearchProductApple - click on Picture Apple PC success
+01:52:04.079 [main] INFO  org.qaway.TestSearchProductApple - get Name product Apple PC is displayed
+01:52:04.250 [main] INFO  org.qaway.TestSearchProductApple - information product : {Screensize=13.0'', Memory=4 GB, CPU Type=Intel Core i5}
+01:52:04.273 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:52:04.456 [main] INFO  org.qaway.base.CommonAPI - browser close success
+01:52:07.275 [main] INFO  org.qaway.base.CommonAPI - browser open success
+01:52:07.501 [main] INFO  org.qaway.TestSearchProductApple - page title validation success
+01:52:07.650 [main] INFO  org.qaway.TestSearchProductApple - type Apple In Search success
+01:52:09.716 [main] INFO  org.qaway.TestSearchProductApple - click on Search success
+01:52:09.762 [main] INFO  org.qaway.TestSearchProductApple - list of products apple: [Apple, Apple]
+01:52:09.786 [main] INFO  org.qaway.TestSearchProductApple - Name Apple sorted success
+01:52:09.808 [main] INFO  org.qaway.base.CommonAPI - take screenshot for failure true
+01:52:10.009 [main] INFO  org.qaway.base.CommonAPI - browser close success

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="sauce demo regression">
+    <parameter name="useCloudEnv" value="false"></parameter>
+
+    <parameter name="envName" value="browserstack"></parameter>
+    <parameter name="osVersion" value="11"></parameter>
+    <parameter name="browserVersion" value="101"></parameter>
+    <parameter name="os" value="windows"></parameter>
+
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="url" value="https://demo.nopcommerce.com/"></parameter>
+    <test name="Administration">
+        <classes>
+            <class name="org.qaway.TestAdministration"></class>
+        </classes>
+    </test>
+    <test name="carte">
+        <classes>
+            <class name="org.qaway.TestCarte"></class>
+        </classes>
+    </test>
+    <test name="Computer">
+        <classes>
+            <class name="org.qaway.TestComputer"></class>
+        </classes>
+    </test>
+    <test name="initial page">
+        <classes>
+            <class name="org.qaway.TestInitialPage"></class>
+        </classes>
+    </test>
+    <test name="initial page login client">
+        <classes>
+            <class name="org.qaway.TestInitialPageLoginClient"></class>
+        </classes>
+    </test>
+    <test name="Login Administrators">
+        <classes>
+            <class name="org.qaway.TestLoginAdmin"></class>
+        </classes>
+    </test>
+    <test name="Radio Button">
+        <classes>
+            <class name="org.qaway.TestRadioButton"></class>
+        </classes>
+    </test>
+    <test name="Search Product Apple">
+        <classes>
+            <class name="org.qaway.TestSearchProductApple"></class>
+        </classes>
+    </test>
+
+</suite>
